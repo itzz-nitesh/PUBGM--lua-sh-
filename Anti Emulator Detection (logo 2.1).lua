@@ -2,10 +2,7 @@ gg.alert("\n         ╔─━━━━━━━━░░ 👑 ░░━━━�
 
 --MemoryEdits--
 
-function setvalue(address,flags,value) local tt={} tt[1]={} tt[1].address=address tt[1].flags=flags tt[1].value=value gg.setValues(tt) end
-function setvalue(address,flags,value)xs={}xs[1]={}xs[1].address=address xs[1].flags=flags xs[1].value=value gg.setValues(xs)end
-function setvalue(address,flags,value) local xx={} xx[1]={} xx[1].address=address xx[1].flags=flags xx[1].value=value gg.setValues(xx) end
-
+function setvalue(address,flags,value) local tt={} tt[1]={} tt[1].address=address tt[1].flags=flags tt[1].value=value gg.setValues(tt) end 
 gg.setVisible(false) 
 ---------------------------------------------------------------------------------
 -- Emulator Bypass
