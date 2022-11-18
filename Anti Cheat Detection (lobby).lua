@@ -1,3 +1,5 @@
+gg.alert("\n         ╔─━━━━━━━━░░ 👑 ░░━━━━━━━━─╗\n                        ♔〘 Welcome Nitesh 〙♔\n         ╚─━━━━━━━━░░  ★ ░░━━━━━━━━─╝")
+
 gg.clearResults()
 gg.setVisible(false)
 gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
@@ -103,4 +105,3 @@ gg.getResults(17071992)
 gg.editAll(":Block", gg.TYPE_BYTE)
 gg.clearResults()
 gg.alert("LOBBY BYPASS ACTIVATED")
-gg.setVisible(false)
